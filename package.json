@@ -1,6 +1,6 @@
 {
-  "name": "docx",
-  "version": "5.0.0-rc4",
+  "name": "amaan-docx-test",
+  "version": "1.0.1",
   "description": "Generate .docx documents with JavaScript (formerly Office-Clippy)",
   "main": "build/index.js",
   "scripts": {
@@ -33,7 +33,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dolanmiu/docx.git"
+    "url": "git+https://github.com/Amaanuddin/docx.git"
   },
   "keywords": [
     "docx",
@@ -57,9 +57,9 @@
   "author": "Dolan Miu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dolanmiu/docx/issues"
+    "url": "https://github.com/Amaanuddin/docx/issues"
   },
-  "homepage": "https://github.com/dolanmiu/docx#readme",
+  "homepage": "https://github.com/Amaanuddin/docx#readme",
   "devDependencies": {
     "@types/chai": "^3.4.35",
     "@types/mocha": "^2.2.39",
